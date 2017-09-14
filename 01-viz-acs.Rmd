@@ -1,0 +1,76 @@
+---
+title: "Visualizing the American Community Survey"
+author: "Team Name"
+date: "September 18, 2017"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    keep_md: yes
+    theme: sandstone
+---
+
+### Load the data
+
+```{r setup, include=FALSE}
+library(openintro)
+data(acs12)
+```
+
+### Data properties
+
+<!-- As a team, browse the data and select three variables that you think are interesting and that you think may have an interesting relationship. 
+
+For each of the variables you selected answer the following question: What are some of the properties of these variables that will be relevant (useful? problematic?) for data visualization? You are welcomed to add visualizations to your answer, but you don't have to. -->
+
+1. Variable 1 - 
+
+```{r}
+```
+
+2. Variable 2 - 
+
+```{r}
+```
+
+
+3. Variable 3 - 
+
+```{r}
+```
+
+
+### Plots
+
+<!-- Select and design two different plots that visualize the relationship between these three variables. Each plot should have different "purpose" that guides your choices and justifies the differences between the plots. -->
+
+
+#### Plot 1
+
+```{r}
+```
+
+#### Plot 2
+
+```{r}
+```
+
+
+### Plot properties
+
+<!-- What two plot types have you selected? What are some of the properties of these plots, and how do those properties match with your variables of interest? -->
+
+
+### Tasks
+
+<!-- What task(s) should readers of each plot be able to undertake? Why are these tasks important for these variables? -->
+
+
+### Design context
+
+<!-- What design choices did you make to try to help users accomplish the intended tasks? -->
+
+### User skills
+
+<!-- What type of audience did you intend the plots for? What types of skills does this audience bring to the understanding of your plots? What elements of your plots might be difficult for the audience to understand, and how do you justify the choices you have made about those elements? -->
+ 
