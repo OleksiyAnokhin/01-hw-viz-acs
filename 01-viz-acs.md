@@ -1,6 +1,6 @@
 # Visualizing the American Community Survey
 Team Name  
-September 18, 2017  
+September 19, 2017  
 
 ### Load the data
 

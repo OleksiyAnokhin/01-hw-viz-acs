@@ -1,7 +1,7 @@
 ---
 title: "Visualizing the American Community Survey"
 author: "Team Name"
-date: "September 18, 2017"
+date: "September 19, 2017"
 output: 
   html_document: 
     fig_height: 4
